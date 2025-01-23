@@ -22,11 +22,15 @@ namespace Primeira_API.Services.Autor
             throw new NotImplementedException();
         }
 
-        public Task<ResponseModel<List<AutorModel>>> ListarAutores()
+        public async Task<ResponseModel<List<AutorModel>>> ListarAutores()
         {
             ResponseModel<List<AutorModel>> resposta = new ResponseModel<List<AutorModel>>();
             try
             {
+                var autores = await _context.Autores.ToListAsync();
+                resposta.Dados = autores;
+                resposta.Mensagem = "Todos os autores foram coletados";
+                return resposta;
 
             }
             catch (Exception ex)
