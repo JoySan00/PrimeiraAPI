@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\amcca\\Documents\\aulaC#\\Primeira API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3215A8A0-A7CC-4F23-88BF-8AA9E4932F36}|Primeira API\\Primeira API.csproj|c:\\users\\amcca\\documents\\aulac#\\primeira api\\primeira api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3215A8A0-A7CC-4F23-88BF-8AA9E4932F36}|Primeira API\\Primeira API.csproj|solutionrelative:primeira api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3215A8A0-A7CC-4F23-88BF-8AA9E4932F36}|Primeira API\\Primeira API.csproj|c:\\users\\amcca\\documents\\aulac#\\primeira api\\primeira api\\primeira api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3215A8A0-A7CC-4F23-88BF-8AA9E4932F36}|Primeira API\\Primeira API.csproj|solutionrelative:primeira api\\primeira api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amcca\\Documents\\aulaC#\\Primeira API\\Primeira API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Primeira API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\amcca\\Documents\\aulaC#\\Primeira API\\Primeira API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Primeira API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T01:38:04.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Primeira API.http",
+              "DocumentMoniker": "C:\\Users\\amcca\\Documents\\aulaC#\\Primeira API\\Primeira API\\Primeira API.http",
+              "RelativeDocumentMoniker": "Primeira API\\Primeira API.http",
+              "ToolTip": "C:\\Users\\amcca\\Documents\\aulaC#\\Primeira API\\Primeira API\\Primeira API.http",
+              "RelativeToolTip": "Primeira API\\Primeira API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-23T01:35:47.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
